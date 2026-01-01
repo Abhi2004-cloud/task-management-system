@@ -1,0 +1,12 @@
+{
+  "employees": [
+    { "id": "e1", "name": "Asha Sharma", "role": "Frontend Dev", "email": "asha@example.com" },
+    { "id": "e2", "name": "Ravi Kumar", "role": "Backend Dev", "email": "ravi@example.com" },
+    { "id": "e3", "name": "Meera Joshi", "role": "QA", "email": "meera@example.com" }
+  ],
+  "tasks": [
+    { "id": "t1", "title": "Landing page", "description": "Create hero section", "status": "Open", "assignee": "e1", "priority": "High", "dueDate": "2025-12-05" },
+    { "id": "t2", "title": "API - Auth", "description": "Implement JWT login", "status": "In Progress", "assignee": "e2", "priority": "Medium", "dueDate": "2025-12-08" },
+    { "id": "t3", "title": "Test cases", "description": "Write unit tests", "status": "Open", "assignee": "e3", "priority": "Low", "dueDate": "2025-12-12" }
+  ]
+}
